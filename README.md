@@ -5,7 +5,7 @@
 
 <h4 align="center">
     <p>
-        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/a648b5f7241fe3febeb2ab4b08493a557d8870f9/README.md"
+        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/e623e9b83fe396c8a44f1081dcef3c58a6abfad9/README-en.md"
 >English</a>
     <p>
 </h4>
