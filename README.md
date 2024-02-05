@@ -1,5 +1,7 @@
-# 🤖 Automation Tasks
-
+<div align="center">
+<h1> 🤖 Automation Tasks
+</h1>
+</div>
 Welcome to the Automation Tasks repository! This project is dedicated to simplifying and automating repetitive tasks using Python scripts. The repository includes two main scripts:
 
 Selenium Script
