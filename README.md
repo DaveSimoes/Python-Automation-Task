@@ -9,92 +9,95 @@
     <p>
 </h4>
 
-Welcome to the Automation Tasks repository! This project is dedicated to simplifying and automating repetitive tasks using Python scripts. The repository includes two main scripts:
+Bem-vindo ao repositório Automation Tasks! Este projeto é dedicado a simplificar e automatizar tarefas repetitivas usando scripts em Python. O repositório inclui dois scripts principais:
 
-Selenium Script
-The automation_selenium.py script utilizes the Selenium library to automate web interactions. It can open a browser, navigate to a specified webpage, and fill out a form, demonstrating the power of web automation.
+Selenium Script 
+O script automation_selenium.py utiliza a biblioteca Selenium para automatizar interações na Web. Ele pode abrir um navegador, navegar para uma página da Web especificada e preencher um formulário, demonstrando o poder da automação da Web.
 
-PyAutoGUI Script
-The automation_pyautogui.py script leverages PyAutoGUI for automating mouse and keyboard actions. It can perform tasks such as moving the mouse, clicking, and typing, providing a versatile solution for various automation needs.
+ PyAutoGUI Script
+O script automation_pyautogui.py aproveita o PyAutoGUI para automatizar as ações do mouse e do teclado. Ele pode executar tarefas como mover o mouse, clicar e digitar, fornecendo uma solução versátil para várias necessidades de automação.
 
-Feel free to explore each script's respective directory for detailed instructions on setup and usage. Contributions are welcome, and we encourage you to enhance the scripts or introduce new features. Check out the CONTRIBUTING.md file for guidelines on how to contribute.
+Sinta-se à vontade para explorar o respetivo diretório de cada script para obter instruções detalhadas sobre a configuração e utilização. As contribuições são bem-vindas e encorajamo-lo a melhorar os scripts ou a introduzir novas funcionalidades. Consulte o ficheiro CONTRIBUTING.md para obter orientações sobre como contribuir.
 
-Thank you for visiting the Automation Tasks repository. Simplify your tasks and boost productivity with these automation scripts!
+Obrigado por visitar o repositório Automation Tasks. Simplifique suas tarefas e aumente a produtividade com esses scripts de automação!
 
 ## 🚀 Selenium Script
 
 ### `automation_selenium.py`
 
-<br> The `automation_selenium.py` script utilizes Selenium to interact with web pages, open a browser, and fill out a simple form.
+<br> O script `automation_selenium.py` utiliza o Selenium para interagir com páginas da Web, abrir um navegador e preencher um formulário simples.
 
-#### ⚙️ Setup
+#### ⚙️ Configuração
 
- 1. Install dependencies:
+1.  Instale as dependências:
 
-   ```bash
-   pip install -r selenium_script/requirements.txt
-   ```
+```bash
+pip install -r selenium_script/requirements.txt
+```
 
- <br> ⚠️ Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
+⚠️ Certifique-se de que o WebDriver apropriado para o seu navegador está instalado e no PATH. Você pode baixar o ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
 
- #### ⚡️ Usage
+#### ⚡️ Uso
 
-3. Run the script using:
-
+3. Execute o script usando:
+   
 ```bash
 python selenium_script/automation_selenium.py
 ```
 
-## 🚀 PyAutoGUI Script
+🚀 PyAutoGUI Script
 
 
 ### `automation_pyautogui.py`
-<br> The `automation_pyautogui.py` script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
+<br> O script `automation_pyautogui.py` utiliza o PyAutoGUI para automatizar as acções do mouse e do teclado, tais como mover o mouse, clicar e escrever.
 
-#### ⚙️ Setup
+⚙️ Configuração
 
-1. Install dependencies:
+1. Instale as dependências:
 
 ```bash
 pip install -r pyautogui_script/requirements.txt
 ```
+#### ⚡️ Uso
 
-#### ⚡️ Usage
-
-2. Run the script using:
+2. Execute o script usando:
 
 ```bash
 python pyautogui_script/automation_pyautogui.py
 ```
 
-This script will execute a series of automated actions, including mouse movements, clicks, and text input.
+Este script executará uma série de ações automatizadas, incluindo movimentos do mouse, cliques e entrada de texto.
 
-## 🚨 Contributing
+## 🚨 Contribuições
 
-We welcome contributions from the community to help improve and enhance our automation scripts. If you'd like to contribute, please check out the Contribution Guidelines.
+Recebemos contribuições da comunidade para melhorar e aprimorar nossos scripts de automação. Se você deseja contribuir, consulte as Diretrizes de Contribuição.
 
-### Main Repository Documentation
+### Documentação Principal do Repositório
 
-## Setup and Usage
+## Configuração e Uso
+Cada pasta (`selenium_script/ e pyautogui_script/`) possui seu próprio script e README com informações detalhadas sobre configuração e uso.
 
-Each folder (`selenium_script/` and `pyautogui_script/`) has its own script and README with detailed information on setup and usage.
+### Problemas e Discussões
+Se você encontrar problemas ou tiver ideias para melhorias, crie um problema no repositório do GitHub. Participe de discussões e forneça feedback para nos ajudar a melhorar o projeto.
 
-### Issues and Discussions
+## Código de Conduta
+Observe que temos um Código de Conduta em vigor. Ao participar deste projeto, você concorda em segui-lo. Você pode encontrar o Código de Conduta [aqui](CODE_OF_CONDUCT.md)
 
-If you encounter any issues or have ideas for improvements, please create an issue on the GitHub repository. Engage in discussions and provide feedback to help us improve the project.
+## Licença
 
-## Code of Conduct
+### Licença
 
-Please note that we have a Code of Conduct in place. By participating in this project, you agree to abide by its terms. You can find the Code of Conduct [here](CODE_OF_CONDUCT.md).
+Este projeto está licenciado sob [MIT License](https://opensource.org/licenses/MIT).
 
-## License
-
-### License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Sinta-se à vontade para copiar e colar isso em seu arquivo README.md. Se houver detalhes adicionais ou modificações que você gostaria, por favor, me avise!
 
 
-Feel free to copy and paste this into your README.md file. If there are any additional details or modifications you'd like, please let me know!
+
+
+
+
+
+
 
 
 
