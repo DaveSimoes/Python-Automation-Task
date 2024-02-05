@@ -4,12 +4,12 @@
  </div>
 <h4 align="center">
     <p>
-        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/e40121bcee33f5a9c020b8bd5f0d10b39754bdb2/README-en.md">English</a>
+        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/bf827d87183feb630bffa5ca8279acff5e69c3ac/README-en.md">English</a>
     <p>
 </h4>
 
-
-
+[
+](https://github.com/DaveSimoes/Automation-Task/blob/bf827d87183feb630bffa5ca8279acff5e69c3ac/README-en.md)
 Bem-vindo ao repositório Automation Tasks! Este projeto é dedicado a simplificar e automatizar tarefas repetitivas usando scripts em Python. O repositório inclui dois scripts principais:
 
 Selenium Script 
