@@ -3,6 +3,12 @@
  </h2>
  </div>
 
+<h4 align="center">
+    <p>
+        <b>Portugues</b> | <a href="https://github.com/OpenBMB/MiniCPM/blob/main/README-en.md">English</a>
+    <p>
+</h4>
+
 Welcome to the Automation Tasks repository! This project is dedicated to simplifying and automating repetitive tasks using Python scripts. The repository includes two main scripts:
 
 Selenium Script
