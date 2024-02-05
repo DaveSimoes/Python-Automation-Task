@@ -16,7 +16,7 @@ Thank you for visiting the Automation Tasks repository. Simplify your tasks and 
 
 ### `automation_selenium.py`
 
-The `automation_selenium.py` script utilizes Selenium to interact with web pages, open a browser, and fill out a simple form.
+<br> The `automation_selenium.py` script utilizes Selenium to interact with web pages, open a browser, and fill out a simple form.
 
 #### ⚙️ Setup
 
@@ -38,8 +38,9 @@ python selenium_script/automation_selenium.py
 
 ## 🚀 PyAutoGUI Script
 
-### automation_pyautogui.py
-The `automation_pyautogui.py` script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
+
+### `automation_pyautogui.py`
+<br> The `automation_pyautogui.py` script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
 
 #### ⚙️ Setup
 
