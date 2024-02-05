@@ -1,12 +1,7 @@
 <div align="center">
- <h2> 🤖 Automation Tasks
- </h2>
+ <h1> 🤖 Automation Tasks
+ </h1>
  </div>
-<h4 align="center">
-    <p>
-        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/bf827d87183feb630bffa5ca8279acff5e69c3ac/README-en.md">English</a>
-    <p>
-</h4>
 
 [
 ](https://github.com/DaveSimoes/Automation-Task/blob/bf827d87183feb630bffa5ca8279acff5e69c3ac/README-en.md)
