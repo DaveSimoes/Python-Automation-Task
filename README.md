@@ -80,7 +80,9 @@ Please note that we have a Code of Conduct in place. By participating in this pr
 
 ## License
 
-This project is licensed under the MIT License.
+### License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 Feel free to copy and paste this into your README.md file. If there are any additional details or modifications you'd like, please let me know!
