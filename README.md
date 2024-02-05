@@ -10,7 +10,7 @@ The `automation_selenium.py` script utilizes Selenium to interact with web pages
 
 #### ⚙️ Setup
 
-1. Install dependencies:
+ Install dependencies:
 
    ```bash
    pip install -r selenium_script/requirements.txt
@@ -18,7 +18,7 @@ The `automation_selenium.py` script utilizes Selenium to interact with web pages
 
 2. Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
 
-#### Usage
+#### 👉 Usage
 
 Run the script using:
 
@@ -26,12 +26,12 @@ Run the script using:
 python selenium_script/automation_selenium.py
 ```
 
-## 🚨 PyAutoGUI Script
+## 🚀 PyAutoGUI Script
 
-automation_pyautogui.py
-The automation_pyautogui.py script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
+### automation_pyautogui.py
+The `automation_pyautogui.py` script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
 
-#### Setup
+#### ⚙️ Setup
 
 Install dependencies:
 
@@ -39,7 +39,7 @@ Install dependencies:
 pip install -r pyautogui_script/requirements.txt
 ```
 
-#### Usage
+#### 👉 Usage
 
 Run the script using:
 
@@ -49,7 +49,7 @@ python pyautogui_script/automation_pyautogui.py
 
 This script will execute a series of automated actions, including mouse movements, clicks, and text input.
 
-## Contributing
+## 🚨 Contributing
 
 We welcome contributions from the community to help improve and enhance our automation scripts. If you'd like to contribute, please check out the Contribution Guidelines.
 
@@ -71,9 +71,9 @@ Please note that we have a Code of Conduct in place. By participating in this pr
 
 This project is licensed under the MIT License.
 
-```bash
+
 Feel free to copy and paste this into your README.md file. If there are any additional details or modifications you'd like, please let me know!
-``
 
 
-```
+
+
