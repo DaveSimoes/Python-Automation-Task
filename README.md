@@ -76,7 +76,7 @@ If you encounter any issues or have ideas for improvements, please create an iss
 
 ## Code of Conduct
 
-Please note that we have a Code of Conduct in place. By participating in this project, you agree to abide by its terms. You can find the Code of Conduct here.
+Please note that we have a Code of Conduct in place. By participating in this project, you agree to abide by its terms. You can find the Code of Conduct [here](CODE_OF_CONDUCT.md).
 
 ## License
 
