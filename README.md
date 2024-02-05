@@ -5,7 +5,8 @@
 
 <h4 align="center">
     <p>
-        <b>Portugues</b> | <a href="https://github.com/OpenBMB/MiniCPM/blob/main/README-en.md">English</a>
+        <b>Portugues</b> | <a href= "https://github.com/DaveSimoes/Automation-Task/blob/a648b5f7241fe3febeb2ab4b08493a557d8870f9/README.md"
+>English</a>
     <p>
 </h4>
 
