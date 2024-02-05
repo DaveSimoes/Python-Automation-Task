@@ -9,7 +9,7 @@
 >Portugues</b> | English</a>
     <p>
 </h4>
-
+ 
 
 Welcome to the Automation Tasks repository! This project is dedicated to simplifying and automating repetitive tasks using Python scripts. The repository includes two main scripts:
 
