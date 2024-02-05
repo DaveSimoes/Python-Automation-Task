@@ -8,7 +8,7 @@
     <p>
 </h4>
 
-https://github.com/DaveSimoes/Automation-Task/blob/e40121bcee33f5a9c020b8bd5f0d10b39754bdb2/README-en.md
+
 
 Bem-vindo ao repositório Automation Tasks! Este projeto é dedicado a simplificar e automatizar tarefas repetitivas usando scripts em Python. O repositório inclui dois scripts principais:
 
