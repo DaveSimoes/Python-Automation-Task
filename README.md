@@ -25,8 +25,8 @@ Thank you for visiting the Automation Tasks repository. Simplify your tasks and 
    ```bash
    pip install -r selenium_script/requirements.txt
    ```
-<br>
-2. Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
+
+ <br> ⚠️ Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
 
  #### 👉 Usage
 
