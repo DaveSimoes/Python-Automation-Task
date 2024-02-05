@@ -1,0 +1,2 @@
+selenium==3.141.0
+pip install -r selenium_script/requirements.txt
