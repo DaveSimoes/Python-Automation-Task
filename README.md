@@ -28,7 +28,7 @@ Thank you for visiting the Automation Tasks repository. Simplify your tasks and 
 
  <br> ⚠️ Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
 
- #### 👉 Usage
+ #### ⚡️ Usage
 
 3. Run the script using:
 
@@ -50,7 +50,7 @@ python selenium_script/automation_selenium.py
 pip install -r pyautogui_script/requirements.txt
 ```
 
-#### 👉 Usage
+#### ⚡️ Usage
 
 2. Run the script using:
 
