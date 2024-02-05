@@ -1,14 +1,14 @@
-# Automation Tasks
+# 🤖 Automation Tasks
 
 This repository contains scripts for automating repetitive tasks using Selenium and PyAutoGUI. These scripts are designed to streamline processes, such as filling out web forms and automating mouse and keyboard actions.
 
-## Selenium Script
+## 🚀 Selenium Script
 
 ### `automation_selenium.py`
 
 The `automation_selenium.py` script utilizes Selenium to interact with web pages, open a browser, and fill out a simple form.
 
-#### Setup
+#### ⚙️ Setup
 
 1. Install dependencies:
 
@@ -26,7 +26,7 @@ Run the script using:
 python selenium_script/automation_selenium.py
 ```
 
-## PyAutoGUI Script
+## 🚨 PyAutoGUI Script
 
 automation_pyautogui.py
 The automation_pyautogui.py script employs PyAutoGUI to automate mouse and keyboard actions, including moving the mouse, clicking, and typing.
