@@ -20,17 +20,17 @@ Thank you for visiting the Automation Tasks repository. Simplify your tasks and 
 
 #### ⚙️ Setup
 
- Install dependencies:
+ 1. Install dependencies:
 
    ```bash
    pip install -r selenium_script/requirements.txt
    ```
-
+<br>
 2. Ensure the appropriate WebDriver for your browser is installed and in the PATH. You can download ChromeDriver [here](https://sites.google.com/chromium.org/driver/).
 
-#### 👉 Usage
+ #### 👉 Usage
 
-Run the script using:
+3. Run the script using:
 
 ```bash
 python selenium_script/automation_selenium.py
@@ -44,7 +44,7 @@ python selenium_script/automation_selenium.py
 
 #### ⚙️ Setup
 
-Install dependencies:
+1. Install dependencies:
 
 ```bash
 pip install -r pyautogui_script/requirements.txt
@@ -52,7 +52,7 @@ pip install -r pyautogui_script/requirements.txt
 
 #### 👉 Usage
 
-Run the script using:
+2. Run the script using:
 
 ```bash
 python pyautogui_script/automation_pyautogui.py
