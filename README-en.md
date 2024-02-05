@@ -3,6 +3,14 @@
  </h2>
  </div>
 
+ <h4 align="center">
+    <p>
+        <b><a href= "https://github.com/DaveSimoes/Automation-Task/blob/e623e9b83fe396c8a44f1081dcef3c58a6abfad9/README.md"
+>Portugues</b> | English</a>
+    <p>
+</h4>
+
+
 Welcome to the Automation Tasks repository! This project is dedicated to simplifying and automating repetitive tasks using Python scripts. The repository includes two main scripts:
 
 Selenium Script
